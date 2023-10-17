@@ -1,5 +1,7 @@
 # plant_app
 
+- <img width="2400" alt="5fd46a09b890635384400b85092550e6" src="https://github.com/himanshugangadiya/ui_challenge/assets/123546076/96c23b7b-54dc-4b01-9cc1-2c83c71a9d5f">
+
 
 ## Getting Started
 
